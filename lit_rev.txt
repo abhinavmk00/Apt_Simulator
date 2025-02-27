@@ -1,0 +1,91 @@
+1.
+Title:
+Analysis Of Cyber Threat Detection And Emulation Using MITRE Attack Framework
+
+Introduction:
+    The paper addresses the increasing prevalence of cyber-attacks and emphasizes the necessity for Cyber Threat Intelligence (CTI) teams to analyze the various techniques employed by adversaries to achieve their objectives, which can range from unauthorized network access to data destruction.
+
+    It highlights the importance of pre-attack patterns and the MITRE ATT&CK framework as a comprehensive knowledge repository that aids in understanding adversary tactics, techniques, and procedures (TTPs), ultimately assisting organizations in developing effective threat detection and mitigation strategies.
+
+
+Results:
+    The paper presents an in-depth analysis of various threat detection methods and emphasizes the importance of the MITRE ATT&CK framework as a comprehensive knowledge repository of tactics, techniques, and procedures (TTPs) that adversaries use in real-time applications. This analysis aids in developing robust threat controlling programs across different sectors, including private, government, and cybersecurity communities.
+
+    It highlights the necessity of pre-attack patterns defined in an enterprise knowledge base to effectively track adversary techniques and procedures, which is crucial for defending against and responding to cyber-attacks, thereby enhancing the overall security posture of enterprise networks.
+
+Conclution:
+    The paper emphasizes the necessity of utilizing the MITRE ATT&CK framework as a comprehensive knowledge repository to understand and analyze the tactics, techniques, and procedures (TTPs) employed by adversaries, which is crucial for developing effective threat detection and mitigation strategies in cybersecurity.
+
+    It highlights the importance of pre-attack patterns and enterprise knowledge bases in tracking adversary techniques, which can significantly enhance the ability to identify vulnerabilities and respond to cyber threats, thereby improving the overall security posture of organizations against modern attack strategies.
+
+Citation:
+P. Rajesh, M. Alam, M. Tahernezhadi, A. Monika and G. Chanakya, "Analysis Of Cyber Threat Detection And Emulation Using MITRE Attack Framework," 2022 International Conference on Intelligent Data Science Technologies and Applications (IDSTA), San Antonio, TX, USA, 2022, pp. 4-12, doi: 10.1109/IDSTA55301.2022.9923170.
+
+2.
+Title:
+Students’ Application of the MITRE ATT&CK® Framework via a real-time Cybersecurity Exercise
+
+Introduction:
+    The paper discusses the application of the MITRE ATT&CK framework in an educational context, specifically focusing on a real-time cybersecurity exercise centered around social engineering (SE). It highlights how the framework helps students understand and track adversary behaviors, even though SE is not explicitly captured as a technique within the current version of ATT&CK.
+
+    Through experiential learning in a competition, students were able to explore adversarial behavior and develop playbooks that map to the ATT&CK framework. The paper emphasizes that there is no single correct way to map SE case studies onto the framework, allowing students to interpret and understand adversary behaviors in a manner that suits their learning needs.
+
+Results:
+    The paper demonstrates that students, even those with limited experience, can effectively map a social engineering (SE) case study onto the MITRE ATT&CK framework during a real-time cybersecurity exercise.
+    It highlights that there is not a single correct way to map onto the matrix, allowing students to interpret key tactics and techniques in a way that suits their mapping needs, thus promoting interdisciplinary cybersecurity education.
+
+
+Conclution:
+    The paper concludes that utilizing the MITRE ATT&CK framework in an educational setting, particularly within a competition focused on social engineering, allows students to gain hands-on experience in understanding adversarial behaviors and the relevance of social engineering in cybersecurity.
+    It also highlights that there is not a single correct way to map a social engineering case study onto the ATT&CK framework, showing that students can interpret key tactics and techniques based on their own mapping needs and understanding of the adversary's behavior.
+
+Citation:
+A. Rege, J. Williams, R. Bleiman, and K. Williams, “Students’ Application of the MITRE ATT&CK® Framework via a real-time Cybersecurity Exercise,” vol. 22, no. 1, pp. 384–394, Jun. 2023, doi: 10.34190/eccws.22.1.1126.
+
+3.
+Title:
+Leveraging the MITRE ATT&amp;CK Framework to Enhance Organizations Cyberthreat Detection Procedures
+
+Introduction:
+    The paper addresses the increasing complexity and frequency of cyberattacks, highlighting the significant costs associated with cybercrime, such as data loss, financial losses, and reputational harm. It emphasizes the need for organizations to understand not only the damage inflicted by these attacks but also the intentions and methodologies of cybercriminals, particularly Advanced Persistent Threat (APT) groups.
+
+    To combat these evolving threats, the paper proposes methodologies for enhancing cyber threat detection by integrating the MITRE ATT&CK framework into security mechanisms. It aims to develop a threat detection model that utilizes adversary emulations in a simulated environment, thereby improving organizations' cybersecurity posture through effective threat intelligence and incident response procedures.
+
+
+Results:
+    The practical implementation segment of the research evaluated the effectiveness of the proposed threat detection methods, assessing their impact on threat detection and prevention, and discussing the implications of the findings. This comprehensive exploration contributed to a well-supported conclusion regarding the methodologies used.
+
+    The analysis revealed limitations in the designed threat detection queries, indicating that they could not provide proactive detection results due to insufficiently captured fields in log events. This highlighted the need for improved configurations at endpoints to log actions with more detail, suggesting areas for future work to enhance the overall effectiveness of the threat detection system.
+
+Conclution:
+    The paper emphasizes the necessity for ongoing integration of the MITRE ATT&CK framework into security operations, highlighting the current limitations of the research while proposing methodologies to enhance threat detection models through adversary emulations and the mapping of APT group techniques to the framework.
+
+    It concludes by underscoring the potential value of the proposed research, which aims to replace outdated cybersecurity procedures with modern controls, improve the efficiency of threat detection queries, and provide comprehensive guidelines for organizations to bolster their cybersecurity posture.
+
+Citation:
+C. Ekisa, D. Ó Briain, and Y. Kavanagh, “Leveraging the MITRE ATT&amp;CK Framework for Threat Identification and Evaluation in Industrial Control System Simulations,” Jun. 2024, doi: 10.1109/issc61953.2024.10602968.
+
+4.
+Title:
+Dynamic Cyberattack Simulation: Integrating Improved Deep Reinforcement Learning with the MITRE-ATT&amp;CK Framework
+
+Introduction:
+    The paper addresses the increasing sophistication and frequency of cyberattacks, emphasizing the need for robust cybersecurity measures that can effectively counter adversarial threats. It highlights the limitations of traditional adversarial simulation methods in capturing the complexity and unpredictability of real-world cyberattacks.
+
+    To enhance adversarial attack simulation, the authors propose an improved deep reinforcement learning (DRL) algorithm integrated with the MITRE-ATT&CK framework. The paper outlines the challenges faced by traditional methods and presents a DRL-based simulation framework capable of realistically simulating complex and dynamic cyberattacks, demonstrating its effectiveness through comparative evaluation with existing DRL algorithms.
+
+Results:
+    The proposed improved deep reinforcement learning (DRL) framework effectively simulates complex and dynamic cyberattacks, demonstrating its capability to capture the unpredictability of real-world cyber threats compared to traditional adversarial simulation methods.
+
+    The evaluation of the DRL framework using a cyberattack scenario showed significant improvements in adversarial simulation for cybersecurity, indicating that DRL has substantial potential for developing more robust and effective cybersecurity measures in response to the evolving threat landscape.
+
+
+Conclution:
+    The proposed improved deep reinforcement learning (DRL) algorithm significantly enhances adversarial attack simulation for cybersecurity, allowing for more realistic simulations of complex and dynamic cyberattacks compared to traditional methods.
+
+    The evaluation of the DRL framework against existing DRL algorithms demonstrates its effectiveness, suggesting that it has substantial potential to contribute to the development of more robust and effective cybersecurity measures that can adapt to the evolving threat landscape.
+
+
+Citation:
+S. H. Oh, J. Kim, and J. Park, “Dynamic Cyberattack Simulation: Integrating Improved Deep Reinforcement Learning with the MITRE-ATT&amp;CK Framework,” Electronics, vol. 13, no. 14, p. 2831, Jul. 2024, doi: 10.3390/electronics13142831.
+
